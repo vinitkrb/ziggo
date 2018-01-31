@@ -1,0 +1,60 @@
+.bg-inverse {
+    background-color: #292b2c!important;
+}
+.navbar-brand {
+    color:#8C8C8C;
+
+}
+.header-text {
+    padding-left:15px;
+    padding-top:10px;
+    color:#8C8C8C;
+}
+.search-box {
+    padding-left:690px;
+}
+.search-button {
+    background-color:transparent;
+}
+.search-icon {
+    color:#F89999; 
+    z-index: 1000;
+    margin-left:-20px;
+    padding-top: 8px;
+}
+.user-profile {
+    padding-left:30px;
+    color:#8C8C8C;
+} 
+.menu-bar {
+    width: 5%; 
+    float: left;
+    .menu-bar-icon {
+        margin-left: 10px;
+        padding-bottom:5px;
+        padding-top: 5px;
+        color:#fff;
+            
+    }
+    .menu-bar-gradient {
+        background: linear-gradient(orangered, orange);
+        width: 40px;
+    }
+    .idm-user-icon {
+        padding-top: 470px;
+     }
+     .info-icon {
+         margin-left: 3px;
+         padding-top: 10px;
+     }
+     .close-icon {
+        padding-top: 15px;
+     }
+     .add-user-icon {
+        padding-top: 10px;
+     }
+}
+.full-page {
+    width: 95%;
+     float: left;
+}

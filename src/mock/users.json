@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "sub": "1",
+    "preferredUsername": "MrA",
+    "name": "Mr A",
+    "email": "mr.a@hm.com",
+    "emailVerified": "true",
+    "using2fa": "false"
+  },
+  {
+    "id": "2",
+    "sub": "2",
+    "preferredUsername": "MrB",
+    "name": "Mr B",
+    "email": "mr.b@hm.com",
+    "emailVerified": "true",
+    "using2fa": "false"
+  }
+]
